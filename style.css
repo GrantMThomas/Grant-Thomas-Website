@@ -70,7 +70,6 @@ background: linear-gradient(33deg, rgba(2,0,36,1) 0%, rgba(185,185,208,0.0060399
 }
 
 #welcome{
-    display: none;
     padding-bottom: 30px;
 }
 
@@ -86,9 +85,6 @@ background: linear-gradient(33deg, rgba(2,0,36,1) 0%, rgba(185,185,208,0.0060399
     border-bottom: 2px solid lightgray;
 }
 
-#languages{
-    display: none;
-}
 
 
 
