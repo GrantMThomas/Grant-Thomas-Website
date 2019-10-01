@@ -45,7 +45,7 @@ background: linear-gradient(33deg, rgba(2,0,36,1) 0%, rgba(185,185,208,0.0060399
     
 }
 #picture{
-    padding-top: 70px;
+    padding-top: 60px;
     display: flex;
     justify-content: center;
     align-items: center;
@@ -56,11 +56,12 @@ background: linear-gradient(33deg, rgba(2,0,36,1) 0%, rgba(185,185,208,0.0060399
 
 #grant{
     width: 30%;
+    margin-right: 3%;
 }
 
 #picture a{
     width: 10%;
-    margin: 10%;
+    margin: 3%;
 }
 
 
@@ -70,7 +71,7 @@ background: linear-gradient(33deg, rgba(2,0,36,1) 0%, rgba(185,185,208,0.0060399
 }
 
 #welcome{
-    padding-bottom: 30px;
+    padding-bottom: 0px;
 }
 
 #welcome p{
