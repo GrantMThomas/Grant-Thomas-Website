@@ -139,3 +139,20 @@ background: linear-gradient(33deg, rgba(2,0,36,1) 0%, rgba(185,185,208,0.0060399
     text-align: center;
     margin: 10px;
 }
+
+.app{
+    border-radius: 22.37%;
+    width: 80%;
+    text-align: center;
+}
+
+#apps{
+    
+}
+
+#icons{
+    display: flex;
+    justify-content: space-evenly;
+    text-align: center;
+    padding: 20px;
+}
